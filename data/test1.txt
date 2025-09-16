@@ -1,0 +1,4 @@
+This is my first test document.
+
+It has a couple of paragraphs to test chunking and embeddings.
+

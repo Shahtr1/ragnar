@@ -1,0 +1,16 @@
+{
+  "texts": [
+    "This is my first test document.",
+    "It has a couple of paragraphs to test chunking and embeddings."
+  ],
+  "metadatas": [
+    {
+      "source": "test1.txt",
+      "chunk": 0
+    },
+    {
+      "source": "test1.txt",
+      "chunk": 1
+    }
+  ]
+}
