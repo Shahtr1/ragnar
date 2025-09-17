@@ -24,6 +24,8 @@ This makes similarity search much faster, even at massive scale.
 
 2. `sentence-transformers`
 
+Sentence-transformers (often called `SBERT` or the `sentence-transformers` library) are transformer-based models adapted to produce fixed-size vector embeddings for sentences, phrases or paragraphs. Those vectors let you compare sentence meaning cheaply (cosine similarity, nearest neighbors), enabling fast semantic search, clustering, paraphrase detection, etc.
+
 3. `transformers`
 
 4. `langchain`
